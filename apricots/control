@@ -1,0 +1,10 @@
+Package: apricots
+Version: 
+Description: RetroGame port of Apricots
+Section: ports
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/apricots
+Depends:
+Source: https://github.com/retrofw/apricots

@@ -1,0 +1,4 @@
+title=Apricots
+description=Apricots port
+exec=/home/retrofw/games/apricots/apricots.elf
+clock=600

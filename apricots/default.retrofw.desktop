@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Apricots
+Comment=Apricots port
+Exec=apricots.dge
+Icon=apricots
+Categories=games;
+X-OD-Manual=apricots.man.txt
+X-OD-Selector=
+X-OD-Filter=
+Terminal=false
+Type=Application
+StartupNotify=true
