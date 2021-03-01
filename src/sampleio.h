@@ -32,7 +32,7 @@ typedef bool ALboolean;
 
 // SDL Mixer audio definitions
 #if AP_AUDIO==AUDIO_SDLMIXER
-#include <SDL_mixer.h>
+#include <SDL/SDL_mixer.h>
 typedef Mix_Chunk* ALuint;
 typedef bool ALboolean;
 #endif
